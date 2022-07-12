@@ -1,6 +1,6 @@
 defmodule Btree.Walk.SummerTest do
   alias Btree.Tree, as: Tree
-  import Btree.TreeExamples
+  # import Btree.TreeExamples
   use ExUnit.Case
 
   test "sum of empty tree is 0" do
